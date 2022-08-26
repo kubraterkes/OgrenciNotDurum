@@ -1,0 +1,17 @@
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\bin\Debug\net6.0-windows\OgrenciNotDurum.exe
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\bin\Debug\net6.0-windows\OgrenciNotDurum.deps.json
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\bin\Debug\net6.0-windows\OgrenciNotDurum.runtimeconfig.json
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\bin\Debug\net6.0-windows\OgrenciNotDurum.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\bin\Debug\net6.0-windows\OgrenciNotDurum.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.Form1.resources
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.AssemblyInfoInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.AssemblyInfo.cs
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\ref\OgrenciNotDurum.dll
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.pdb
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.genruntimeconfig.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\OgrenciNotDurum.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\udemy projeler\OgrenciNotDurum\OgrenciNotDurum\obj\Debug\net6.0-windows\refint\OgrenciNotDurum.dll
